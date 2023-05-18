@@ -54,3 +54,11 @@ input.search {
     justify-content: space-between;
     text-transform: capitalize;
   }
+  
+  span.population {
+    font-size: 15px;
+  }
+  
+  .hl {
+    background: rgb(23, 203, 226);
+  }
